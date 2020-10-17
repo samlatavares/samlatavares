@@ -9,7 +9,7 @@
     <p>👩🏻‍💻 You'll find some personal projects, projects that I made during some classes and other stuff in my Github.</p>
    </div>
   <div id="contact">
-    🤝Let's talk? You can contact me by <a href="https://www.linkedin.com/in/samla-tavares" target="_blank"> Linkedin</a> or <a href="mailto:samla_azevedo@outlook.com">
+    🤝Let's talk? You can contact me by <a target="_blank" href="https://www.linkedin.com/in/samla-tavares" target="_blank"> Linkedin</a> or <a href="mailto:samla_azevedo@outlook.com">
       Send me an email</a>.
   </div>
   <div>
