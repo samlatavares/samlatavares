@@ -15,6 +15,8 @@
   </div>
   <div >
   <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=buefy"/></p>
-  <p><img src="https://komarev.com/ghpvc/?username=samlatavares&color=#A650FF&style=flat)></p>
+  <p><img src="https://komarev.com/ghpvc/?username=samlatavares&color=blue&style=flat)></p>
 </div>
 </div>
+---
+![](https://komarev.com/ghpvc/?username=samlatavares&color=blue&style=flat)
