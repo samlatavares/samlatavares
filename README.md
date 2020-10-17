@@ -13,10 +13,7 @@
       <i class="fab fa-linkedin fa-lg"></i> Linkedin</a> or <a href="mailto:samla_azevedo@outlook.com">
       <i class="fas fa-envelope fa-lg"></i> Mail</a>.
   </div>
-  <div >
+  <div>
   <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=buefy"/></p>
-  <p><img src="https://komarev.com/ghpvc/?username=samlatavares&color=blue&style=flat)></p>
 </div>
 </div>
----
-![](https://komarev.com/ghpvc/?username=samlatavares&color=blue&style=flat)
