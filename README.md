@@ -9,9 +9,8 @@
     <p>👩🏻‍💻 You'll find some personal projects, projects that I made during some classes and other stuff in my Github.</p>
    </div>
   <div id="contact">
-    🤝Let's talk? You can contact me by <a href="https://www.linkedin.com/in/samla-tavares" target="_blank">
-      <i class="fab fa-linkedin fa-lg"></i> Linkedin</a> or <a href="mailto:samla_azevedo@outlook.com">
-      <i class="fas fa-envelope fa-lg"></i> Mail</a>.
+    🤝Let's talk? You can contact me by <a href="https://www.linkedin.com/in/samla-tavares" target="_blank"> Linkedin</a> or <a href="mailto:samla_azevedo@outlook.com">
+      Send me an email</a>.
   </div>
   <div>
   <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=buefy"/></p>
