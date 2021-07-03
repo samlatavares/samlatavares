@@ -13,6 +13,6 @@
       Email</a>.
   </div>
   <div>
-  <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=buefy"/></p>
+  <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=onedark"/></p>
 </div>
 </div>
