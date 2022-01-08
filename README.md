@@ -15,10 +15,7 @@
   <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=onedark&langs_count=8"/>
-	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img width="400px" align="left" src="![Samla's GitHub stats](https://github-readme-stats.vercel.app/api?username=samlatavares&theme=radical&show_icons=true)"/>
-	</a>
-  
-	</div>
+		<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=samlatavares&theme=radical&show_icons=true"/>
+	</a>  
+  </div>
 </div>
