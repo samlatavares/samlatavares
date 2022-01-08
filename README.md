@@ -14,8 +14,8 @@
   </div>
   <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=radical&langs_count=8"/>
-		<img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=samlatavares&theme=radical&show_icons=true"/>
+		<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlatavares&hide=html&layout=compact&theme=radical&langs_count=8"/>
+		<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=samlatavares&theme=radical&show_icons=true&include_all_commits=true&count_private=true""/>
 	</a>  
   </div>
 </div>
