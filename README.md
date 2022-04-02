@@ -21,9 +21,10 @@
 </div>
 
 <div>
+	<h2>Contact</h2>
 	<p>You can contact me here:</p>
 	<p>
-		<a href="https://www.linkedin.com/in/samla-tavares/" target="_blank"><img src="https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+		<a href="https://www.linkedin.com/in/samla-tavares/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 		<a href="mailto:samla_azevedo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-E mail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 	</p>
 </div>
