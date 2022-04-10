@@ -5,7 +5,7 @@
 <div>
 	<h1>Hi there, Samla here! 👋</h1>
 	<p>A bit about me: I'm a brazilian developer. I'm currently working as a Java developer but I also have 4 years of experience working with .NET. I also have experience working using Javascript, HTML and CSS. In addition, I have made some personal projects using React and Node.js.</p>
-	<p>My native language is Portuguese and I'm an advanced English speaker. I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
+	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
 	<p>Here you'll find some personal projects and things that I'm studying.</p>
 </div>
 
