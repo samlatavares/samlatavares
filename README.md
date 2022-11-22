@@ -4,9 +4,9 @@
 </div>
 <div>
 	<h1>Hi there, Samla here! 👋</h1>
-	<p>A bit about me: I'm a brazilian developer. I'm currently working as a Java developer but I also have 4 years of experience working with .NET. I also have experience working using Javascript, HTML and CSS. In addition, I have made some personal projects using React and Node.js.</p>
+	<p>A bit about me: I'm a brazilian developer. I'm currently working as FullStack Developer (.NET Core/Vue.js). I have 4 years of experience working with .NET and 2 years with Java. I also have experience working with Javascript, HTML and CSS. In addition, I have made some personal projects using React and Node.js.</p>
 	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
-	<p>Here you'll find some personal projects and things that I'm studying.</p>
+	<p>Here you'll find some personal projects and things that I'm studying at the moment.</p>
 </div>
 
 <div style="display: inline_block">
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-	<h2>Contact</h2>
+	<h2>Feel free to contact me</h2>
 	<p>
 		<a href="https://www.linkedin.com/in/samla-tavares/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 		<a href="mailto:samla_azevedo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-E mail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
