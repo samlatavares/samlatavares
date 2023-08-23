@@ -5,7 +5,8 @@
 <div>
 	<h1>Hi there, Samla here! 👋</h1>
 	<p>A bit about me: I'm a brazilian developer. I'm currently working as FullStack Developer (.NET Core/Vue.js). I have 4 years of experience working with .NET and 2 years with Java. I also have experience working with Javascript, HTML and CSS. In addition, I have made some personal projects using React and Node.js.</p>
-	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
+	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I also can speak a little bit of Spanish and I'm learning German by myself. </p>
+	<p>I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
 	<p>Here you'll find some personal projects and things that I'm studying at the moment.</p>
 </div>
 
@@ -16,6 +17,7 @@
 	<img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+	<img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
 </div>
 
 <div>
