@@ -4,10 +4,11 @@
 </div>
 <div>
 	<h1>Hi there, Samla here! 👋</h1>
-	<p>A bit about me: I'm a brazilian developer. I'm currently working as FullStack Developer (.NET Core/Vue.js). I have 4 years of experience working with .NET and 2 years with Java. I also have experience working with Javascript, HTML and CSS. In addition, I have made some personal projects using React and Node.js.</p>
+	<p>I’m a Brazilian Java Developer with a Bachelor's degree in Computer Science and a specialization in Software Engineering. </p>
+	<p>I've been working in the field since 2016, primarily with .NET, Java and Oracle Database. Additionally, I have experience with Vue.js, JavaScript, HTML, CSS, and MS SQL Server. I’ve also developed personal projects using React and Node.js.</p>
 	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I also can speak a little bit of Spanish and I'm learning German by myself. </p>
 	<p>I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
-	<p>Here you'll find some personal projects and things that I'm studying at the moment.</p>
+	<p>Here you'll find my personal projects.</p>
 </div>
 
 <div style="display: inline_block">
@@ -21,7 +22,7 @@
 </div>
 
 <div>
-	<h2>Feel free to contact me</h2>
+	<h2>Feel free to contact me!</h2>
 	<p>
 		<a href="https://www.linkedin.com/in/samla-tavares/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 		<a href="mailto:samla_azevedo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-E mail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
