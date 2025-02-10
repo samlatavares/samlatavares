@@ -6,7 +6,7 @@
 	<h1>Hi there, Samla here! 👋</h1>
 	<p>I’m a Brazilian Java Developer with a Bachelor's degree in Computer Science and a specialization in Software Engineering. </p>
 	<p>I've been working in the field since 2016, primarily with .NET, Java and Oracle Database. Additionally, I have experience with Vue.js, JavaScript, HTML, CSS, and MS SQL Server. I’ve also developed personal projects using React and Node.js.</p>
-	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I also can speak a little bit of Spanish and I'm learning German by myself. </p>
+	<p>My native language is Portuguese and I'm an Upper Intermediate English speaker. I can also speak a little bit of Spanish and I'm learning German by myself. </p>
 	<p>I like to eat, travel, read, watch movies/TV shows and learn tech and non-tech stuff.</p>
 	<p>Here you'll find my personal projects.</p>
 </div>
